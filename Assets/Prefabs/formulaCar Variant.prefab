@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1106745310099439024
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 159076, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_Name
+      value: formulaCar Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 33.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 31.143744
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 104.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.99985826
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.016837683
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 358.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 481260, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1858863022903996537, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_Mass
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 1858863022903996537, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_SuspensionSpring.damper
+      value: 7000
+      objectReference: {fileID: 0}
+    - target: {fileID: 1858863022903996537, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_SuspensionSpring.spring
+      value: 80000
+      objectReference: {fileID: 0}
+    - target: {fileID: 1858863022903996537, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_ForwardFriction.m_Stiffness
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1858863022903996537, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2452549261708338052, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_Mass
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 2452549261708338052, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_SuspensionSpring.damper
+      value: 7000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2452549261708338052, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_SuspensionSpring.spring
+      value: 80000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2452549261708338052, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_ForwardFriction.m_Stiffness
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2452549261708338052, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3410000939952610138, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_Name
+      value: RLCollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 3894350237680383157, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.686
+      objectReference: {fileID: 0}
+    - target: {fileID: 4438244767225324295, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_Mass
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 4438244767225324295, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_SuspensionSpring.damper
+      value: 7000
+      objectReference: {fileID: 0}
+    - target: {fileID: 4438244767225324295, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_SuspensionSpring.spring
+      value: 80000
+      objectReference: {fileID: 0}
+    - target: {fileID: 4438244767225324295, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_ForwardFriction.m_Stiffness
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4438244767225324295, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4734871562454423533, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_Name
+      value: FRCollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 5332384595206502616, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_Mass
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5332384595206502616, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_SuspensionSpring.damper
+      value: 7000
+      objectReference: {fileID: 0}
+    - target: {fileID: 5332384595206502616, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_SuspensionSpring.spring
+      value: 80000
+      objectReference: {fileID: 0}
+    - target: {fileID: 5332384595206502616, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_ForwardFriction.m_Stiffness
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5332384595206502616, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5348375532266945817, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_Name
+      value: FLCollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 7600588066694428437, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_Name
+      value: RRCollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 8416036791065120580, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: rearLeftMesh
+      value: 
+      objectReference: {fileID: 1106745310099334122}
+    - target: {fileID: 8416036791065120580, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: steeringSpeed
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 8416036791065120580, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: frontRightMesh
+      value: 
+      objectReference: {fileID: 1106745310099307194}
+    - target: {fileID: 8416036791065120580, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: maxSteeringAngle
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 8416036791065120580, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: rearLeftCollider
+      value: 
+      objectReference: {fileID: 4997761347707077992}
+    - target: {fileID: 8416036791065120580, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: frontRightCollider
+      value: 
+      objectReference: {fileID: 1628034690999078345}
+    - target: {fileID: 8416036791065120580, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: accelerationMultiplier
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8416036791065120580, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: handbrakeDriftMultiplier
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 9138290004403668973, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.688
+      objectReference: {fileID: 0}
+    - target: {fileID: 9138290004403668973, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.53
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2ffafeada4fe1f8498bd9a496cee7232, type: 3}
+--- !u!1 &1106745310099307194 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 132874, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+    type: 3}
+  m_PrefabInstance: {fileID: 1106745310099439024}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1106745310099334122 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 171610, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+    type: 3}
+  m_PrefabInstance: {fileID: 1106745310099439024}
+  m_PrefabAsset: {fileID: 0}
+--- !u!146 &1628034690999078345 stripped
+WheelCollider:
+  m_CorrespondingSourceObject: {fileID: 1858863022903996537, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+    type: 3}
+  m_PrefabInstance: {fileID: 1106745310099439024}
+  m_PrefabAsset: {fileID: 0}
+--- !u!146 &4997761347707077992 stripped
+WheelCollider:
+  m_CorrespondingSourceObject: {fileID: 5332384595206502616, guid: 2ffafeada4fe1f8498bd9a496cee7232,
+    type: 3}
+  m_PrefabInstance: {fileID: 1106745310099439024}
+  m_PrefabAsset: {fileID: 0}
