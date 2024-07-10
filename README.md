@@ -36,3 +36,22 @@ Sprint 1
 *Diğer araçlar ile yarış hissi kuvvetlendirildi.
 *Karaker kontrolcüsü yapıldı.
 *Oyuncu kamerası hazırlandı.
+
+# Sprint Notları
+Oyunumuzun çalışır bir prototipini oluşturmayı başardık.
+Bu prototipe kendi arabamızı kullanarak başladık, devamında bizimle yarışan arabaları da ekleyip ilk sprinte yetiştirmeyi başardık.
+
+Tamamlanması Planlanan Puanlar ve Bu Puanların Hangi Başlıklardan Geleceği Birinci Sprint İçin
+38 puan ve bu puanların açıklamaları;
+
+Yarışmaya hazır, çalışan proje = 10 puan
+Görsel bütünlük / Renk seçimleri = 10 puan
+Pazara uygun, talep görebilecek oyun = 10 puan
+Oyun 3D = 8 puan
+
+Sprint Review
+Alınan kararlar:
+*İlk sprintten sonra ikinci sprintin planlaması olacak.
+
+Sprint Retrospective
+*İlk sprintten sonra nelerin yanlış gittiği tartışılacak ve bu yanlışyarın doğruları nasıl olabilir belirlenecek.
